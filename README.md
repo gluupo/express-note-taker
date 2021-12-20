@@ -6,14 +6,17 @@
 - [visuals](#visuals)
 
 ## objective
-as a manager, i want to generate a webpage that displays my team's basic info so that i have quick access to their emails and github profiles
+AS A small business owner
+I WANT to be able to write and save notes
+SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 ## usage
-- created a command-line application that accepts user input
-- when user is prompted for their team members and their info, an html file is generated that displayed a team roster based on the input
-- when user clicks on an email address in the html the default email program opens and populates the to field with the email address
-- when user clicks on the github username, their profile opens in a new tab
-- when user starts the application then they are prompted to enter the team manager’s name, employee id, email address, and office number
-- when user finishes building their team, they exit the application and the html is generated
+- when you open the note taker then user is presented a landed page with a link to a notes page
+- when user clicks on the link to the notes page they are presented with exisiting notes listed in the left-hand column, plus empty fields to enter a new note 
+- when user enters a new note titel and the note's text, then a save icon appears in the navigation at the top of the page
+- when user clicks on the save icon, the new note is saved and appears in the left-hand column with the other existing notes
+- when  user clicks on an exisiting note in the list, that note appears in the right hand column
+- when a user clicks on the write icon in the navigation at the top of the page, then they are presented with empty fields to enter a new note title and text 
 
 ## visuals
+[![Image from Gyazo](https://i.gyazo.com/d5723789e91cabb447c3c6893b16c4f3.gif)](https://gyazo.com/d5723789e91cabb447c3c6893b16c4f3)
