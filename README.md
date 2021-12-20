@@ -6,9 +6,7 @@
 - [visuals](#visuals)
 
 ## objective
-AS A small business owner
-I WANT to be able to write and save notes
-SO THAT I can organize my thoughts and keep track of tasks I need to complete
+i want to be able to write and save note so that i can organize my thoughts and keep track of tasks i need to complete
 
 ## usage
 - when you open the note taker then user is presented a landed page with a link to a notes page
