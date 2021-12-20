@@ -4,11 +4,21 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4"
-  }
+    "express": "^4.17.2",
+    "uuid": "^8.3.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gluupo/express-note-taker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gluupo/express-note-taker/issues"
+  },
+  "homepage": "https://github.com/gluupo/express-note-taker#readme"
 }
